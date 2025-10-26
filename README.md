@@ -1,56 +1,59 @@
 <!-- Profile README for buildwithjeevan -->
 
 <h1 align="center">👋 Hey, I'm Jeevan R</h1>
-<h3 align="center">🚀 Building Scalable Backends & AI Systems | Python • FastAPI • LangChain • Llama • Docker</h3>
+<h3 align="center">💻 Senior Software Engineer | Full-Stack & AI Systems | Python • Spring Boot • PHP • Flutter</h3>
 
 ---
 
-### 💡 About Me
-I'm a **Backend + AI Engineer** who loves building intelligent systems that *think, learn, and scale.*  
-Currently working with **FastAPI**, **Spring Boot**, and **LangChain** to bring **AI-powered automation** into real-world backend applications.
+### 💡 About Me  
+I’m a **Senior Software Engineer** with over **9 years of experience** in **full-stack development**, building scalable enterprise platforms and modernizing legacy systems into API-first, cloud-ready solutions.  
 
-- 🔭 Currently exploring **Generative AI**, **LLMs**, and **RAG architectures**
-- 🧠 Skilled in **Python, Java, MySQL, Docker, and Flutter**
-- 💬 Ask me about **building AI microservices** or **LLM-based APIs**
-- 🌱 Learning **MLOps**, **Prompt Engineering**, and **System Design**
-- ⚡ Fun fact: I believe "Build > Talk" — everything’s a prototype until it’s shipped!
+I work across **Python**, **PHP (Laravel)**, **Spring Boot**, **JavaScript**, **Flutter**, and **SQL**, and I’m passionate about **clean architecture**, **efficient data design**, and **automation through AI**.  
+
+Recently, I’ve been driving **Copilot adoption** and exploring **Generative AI** — integrating AI-assisted development and **LLM-based automations** into production backends, especially in **finance and enterprise domains**.
+
+- 🧠 Focused on blending **software engineering best practices** with **AI-driven intelligence**  
+- 🚀 Skilled in **Python, Java, PHP, Spring Boot, Flutter, MySQL, Docker, FastAPI**  
+- 💬 Exploring **LangChain**, **Llama 3**, **Qdrant**, and **local LLM pipelines**  
+- 🔭 Currently building **AI microservices** for backend automation  
+- ⚡ Core belief: “Reliable engineering + emerging AI = real impact.”
 
 ---
 
-### 🧠 Featured Projects
+### 🧠 Featured Projects  
 
 | 🧩 Project | 💻 Tech Stack | 📜 Description |
 |-------------|---------------|----------------|
-| [RAG Chatbot Llama3](https://github.com/buildwithjeevan/RAG-Chatbot-Llama3) | Python, FastAPI, LangChain, Qdrant, Ollama | Context-aware chatbot built with local Llama3 model using RAG pipeline |
-| [AI SQL Insight Engine](https://github.com/buildwithjeevan/AI-MySQL-Agent) | FastAPI, MySQL, LLM, LangChain | Converts natural questions into SQL queries for instant data insights |
-| [FastAPI Microservice Boilerplate](https://github.com/buildwithjeevan/FastAPI-Starter) | FastAPI, Docker, REST | A production-ready template for scalable backend APIs |
-| [Credit Risk Classifier](https://github.com/buildwithjeevan/ML-Credit-Risk) | Scikit-Learn, Pandas | ML model predicting customer risk based on historical data |
+| [🦙 RAG Chatbot (Llama 3 + Qdrant)](https://github.com/buildwithjeevan/RAG-Chatbot-Llama3) | FastAPI, LangChain, Qdrant, Ollama | Context-aware chatbot built with local Llama 3 model using RAG |
+| [🧮 AI SQL Insight Engine](https://github.com/buildwithjeevan/AI-MySQL-Agent) | FastAPI, MySQL, LangChain | Converts natural queries into SQL with LLM-based reasoning |
+| [⚙️ FastAPI Microservice Boilerplate](https://github.com/buildwithjeevan/FastAPI-Starter) | FastAPI, Docker, REST | Boilerplate for scalable backend microservices |
+| [📊 Credit Risk Classifier](https://github.com/buildwithjeevan/ML-Credit-Risk) | Python, Scikit-Learn, Pandas | Predicts customer risk using machine learning models |
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 
-#### 🚀 Core:
-`Python` • `FastAPI` • `Spring Boot` • `Docker` • `MySQL` • `Flutter`
+#### 🚀 Core Backend & Systems
+`Python` • `FastAPI` • `Spring Boot` • `PHP (Laravel)` • `MySQL` • `Docker`
 
-#### 🧠 AI / GenAI:
-`LangChain` • `Llama 3` • `Ollama` • `Qdrant` • `LlamaIndex` • `Transformers`
+#### 🤖 AI & Generative AI
+`LangChain` • `Llama 3` • `Ollama` • `Qdrant` • `Transformers` • `LlamaIndex`
 
-#### 🧰 Tools & DevOps:
-`Git` • `GitHub Actions` • `Postman` • `Linux` • `VSCode`
-
----
-
-### 🧩 My Coding Journey
-- 💻 Started with **PHP + MySQL** → mastered **Backend systems**
-- 🧩 Transitioned into **Spring Boot + Reactive APIs**
-- 🤖 Now crafting **LLM-based AI services** and **MLOps pipelines**
-- 🧠 Practicing **DSA** for strong problem-solving foundation
-- 🎯 Mission: To blend **AI intelligence** with **production-grade backends**
+#### 🧰 Frontend & Tools
+`Flutter` • `JavaScript` • `HTML/CSS` • `Git` • `Linux` • `VSCode` • `Postman`
 
 ---
 
-### 🌍 Connect With Me
+### 🧩 My Engineering Journey
+- 🔹 Started with **PHP + MySQL**, mastering server-side logic and DB optimization  
+- 🔹 Scaled to **Spring Boot + Java**, building reactive APIs and modular systems  
+- 🔹 Transitioned to **Python + FastAPI**, focusing on AI microservices  
+- 🔹 Currently exploring **Generative AI + backend automation**  
+- 🎯 Goal: To engineer **intelligent systems** that *learn, adapt, and scale* in production  
+
+---
+
+### 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/jeevanr" target="_blank">
@@ -66,7 +69,7 @@ Currently working with **FastAPI**, **Spring Boot**, and **LangChain** to bring 
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Stats  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buildwithjeevan&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithjeevan&layout=compact&theme=radical"/>
@@ -74,4 +77,4 @@ Currently working with **FastAPI**, **Spring Boot**, and **LangChain** to bring 
 
 ---
 
-<h4 align="center">“Building intelligent systems that work — one repo at a time.” ⚡</h4>
+<h4 align="center">“Engineering reliable systems. Empowering them with intelligence.” ⚡</h4>
