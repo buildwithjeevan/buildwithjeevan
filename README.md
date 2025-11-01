@@ -24,6 +24,7 @@ Recently, I’ve been driving **Copilot adoption** and exploring **Generative AI
 
 | 🧩 Project | 💻 Tech Stack | 📜 Description |
 |-------------|---------------|----------------|
+| [🏗️ System Design Blueprints (Python Microservices)](https://github.com/buildwithjeevan/system-design-blueprints) | FastAPI, Python, Microservices | Hands-on collection of system design patterns with diagrams and runnable FastAPI examples |
 | [🦙 RAG Chatbot (Llama 3 + Qdrant)](https://github.com/buildwithjeevan/RAG-Chatbot-Llama3) | FastAPI, LangChain, Qdrant, Ollama | Context-aware chatbot built with local Llama 3 model using RAG |
 | [🧮 AI SQL Insight Engine](https://github.com/buildwithjeevan/AI-MySQL-Agent) | FastAPI, MySQL, LangChain | Converts natural queries into SQL with LLM-based reasoning |
 | [⚙️ FastAPI Microservice Boilerplate](https://github.com/buildwithjeevan/FastAPI-Starter) | FastAPI, Docker, REST | Boilerplate for scalable backend microservices |
